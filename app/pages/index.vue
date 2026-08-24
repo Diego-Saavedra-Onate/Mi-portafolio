@@ -15,7 +15,7 @@
             </p>
 
             <div class="flex justify-center gap-4 pt-2">
-                <UButton to="https://wa.me/569XXXXXXXX" target="_blank" icon="i-heroicons-chat-bubble-left-right"
+                <UButton to="https://wa.me/56962019028" target="_blank" icon="i-heroicons-chat-bubble-left-right"
                     size="lg" color="primary">
                     Contactar por WhatsApp
                 </UButton>
