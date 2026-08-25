@@ -1,1 +1,7 @@
-https://g66ccvr0-3000.brs.devtunnels.ms/
+<!-- app/app.vue -->
+<template>
+  <div>
+    <NuxtRouteAnnouncer />
+    <NuxtWelcome />
+  </div>
+</template>
